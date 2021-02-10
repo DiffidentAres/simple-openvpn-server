@@ -33,7 +33,7 @@ openvpn-install的仓库地址：https://github.com/angristan/openvpn-install
 
 ## TODO
 
-- [ ] 搞个想点样子的前端界面
+- [ ] 搞个像点样子的前端界面
 - [ ] 修改`openvpn-install`项目的脚本代码，分离安装、添加用户、删除用户操作
 - [ ] 修改脚本，避免`sudo`的使用
 - [ ] 实现用户登录功能，一个用户分配一个配置文件

@@ -7,6 +7,8 @@
     <body>
         <center>
             <a href="./getconfigfile.php"><button>get config file</button> </a>
+            <br>
+            <a href="./getopenvpn.php"><button>get openvpn</button></a>
         </center>
     </body>
 </html>
